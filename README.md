@@ -2,7 +2,7 @@
 
 ## Description
 
-For this project, we took an already written starter code and refactored it to meet the Acceptance Criteria. This will make it easier for another developer to make changes later on if needed. 
+For this project, we took an already written starter code and refactored it to meet the given criteria. This will make it easier for another developer to read and to make changes later on if needed. 
 
 - All links were edited and tested to make sure they function correctly.
 - HTML properties were reclassed for optimization and to follow semantic structure.
