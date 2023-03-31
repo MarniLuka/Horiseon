@@ -1,9 +1,11 @@
+/* Universal Sector */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Element Sector: organized from top to bottom */
 body {
     background-color: #d9dcd6;
 }
@@ -17,6 +19,7 @@ p {
     font-size: 16px;
 }
 
+/* Header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -34,6 +37,7 @@ header div ul li {
     margin-left: 25px;
 }
 
+/* Footer */
 footer {
     padding: 30px;
     clear: both;
@@ -45,6 +49,7 @@ footer h2 {
     font-size: 20px;
 }
 
+/* Class Sectors: organized from top to bottom */
 .navbar {
     padding-top: 15px;
     margin-right: 20px;
@@ -57,6 +62,7 @@ footer h2 {
     color: #d9dcd6;
 }
 
+/* Feature */
 .main-image {
     height: 800px;
     width: 100%;
@@ -66,6 +72,8 @@ footer h2 {
     background-position: center;
 }
 
+/* Section: Content
+    Was able to merge multiple divisions after changing the class name */
 .content {
     width: 75%;
     display: inline-block;
@@ -98,6 +106,8 @@ footer h2 {
     font-size: 36px;
 }
 
+/* Section: Benefits
+    Was able to merge multiple divisions after changing the class name */
 .benefits {
     margin-right: 20px;
     padding: 20px;
