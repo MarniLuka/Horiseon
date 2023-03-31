@@ -17,3 +17,7 @@ Upon accessing the Horiseon site, you will see that it's appearance hasn't chang
 [Horiseon](https://marniluka.github.io/Horiseon/)
 
 ![alt text](./Develop/assets/images/Horiseon%20screenshot.jpeg)
+
+## Credits
+
+Starter code was provided by: https://github.com/coding-boot-camp/urban-octo-telegram
